@@ -1,8 +1,22 @@
 # Schedule
 
+<pre>
+      May 2024
+Mo Tu We Th Fr Sa Su
+       1  2  3  4  5
+ 6  7  8  9 10 11 12
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 31
+</pre>
+
 ## When
-* Early May (that gives us a bit over six months, early May has a weird feeling in Calgary, lots of pant-up energy but the weather keeps letting us down) ?
+* weekday is better
+* Mother's day is May 12th
+* brefore May long weekend, Victoria day is on May 20
+* left: Friday May 3rd
 
 ## Duration
 * multiple vs single day?
 * weekend vs weekday?
+* ONE DAY.

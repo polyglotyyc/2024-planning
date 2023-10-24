@@ -1,4 +1,6 @@
-# 2024-planning
+# 2024 Planning
+
+[https://polyglotyyc.ca/](https://polyglotyyc.ca/)
 
 ## [Goals](goals.md)
 
@@ -9,6 +11,8 @@
 ## [Sponsorships](sponsorships.md)
 
 ## [Volunteers (self edit)](volunteers.md)
+
+## [Exit Questions](exit-questions.md_
 
 ## Next steps
 
