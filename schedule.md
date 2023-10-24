@@ -14,7 +14,7 @@ Mo Tu We Th Fr Sa Su
 * weekday is better
 * Mother's day is May 12th
 * brefore May long weekend, Victoria day is on May 20
-* left: Friday May 3rd
+* left: **Friday May 3rd**
 
 ## Duration
 * multiple vs single day?
