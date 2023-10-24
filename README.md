@@ -8,6 +8,10 @@
 
 ## [Schedule](schedule.md)
 
+## [Website](website.md)
+
+## [Social Networks](social.md)
+
 ## [Sponsorships](sponsorships.md)
 
 ## [Volunteers (self edit)](volunteers.md)
