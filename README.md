@@ -16,7 +16,7 @@
 
 ## [Volunteers (self edit)](volunteers.md)
 
-## [Exit Questions](exit-questions.md_
+## [Exit Questions](exit-questions.md)
 
 ## Next steps
 
