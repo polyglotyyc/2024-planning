@@ -7,3 +7,9 @@
 * What went wrong
 * What went really well
 
+## After event TODOs
+* document information for the following years such as:
+    * any legal document (eg: sponsor contracts)
+    * budget, completed with actuals
+    * recomendations based on exit questions
+
