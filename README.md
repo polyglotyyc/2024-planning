@@ -8,6 +8,8 @@
 
 ## [Schedule](schedule.md)
 
+## [Admission fee](admission.md)
+
 ## [Website](website.md)
 
 ## [Social Networks](social.md)
@@ -17,6 +19,8 @@
 ## [Volunteers (self edit)](volunteers.md)
 
 ## [Exit Questions](exit-questions.md)
+
+## [Unconference organization](unconference.md)
 
 ## Next steps
 
